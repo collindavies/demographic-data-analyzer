@@ -19,4 +19,4 @@ Analyze demographic data using Pandas.
 
 - What country has the highest percentage of people that earn >50K and what is that percentage?
 
-- Identify the most popular occupation for those who earn >50K in India.
+- What is the most popular occupation for those who earn >50K in India.
